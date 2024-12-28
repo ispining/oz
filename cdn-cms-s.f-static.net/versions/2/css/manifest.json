@@ -1,0 +1,9 @@
+{
+	"name": "OZ - Magical Gifts",
+	"short_name": "OZ - Magical Gifts",
+	"theme_color": "#bfa980",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://www.oz-gifts.co.il/",
+	"start_url": "https://www.oz-gifts.co.il/",
+	"icons": [{"src":"https://files.cdn-files-a.com/uploads/7429960/800_66b9d9daaedb2.png?aspect_ratio=1:1&width=192&format=png","sizes":"192x192","type":"image/png"},{"src":"https://files.cdn-files-a.com/uploads/7429960/800_66b9d9daaedb2.png?aspect_ratio=1:1&width=512&format=png","sizes":"512x512","type":"image/png"}]}
